@@ -3,6 +3,8 @@
 ![Customer Segmentation](https://images.unsplash.com/photo-1607083205626-8e9e14f3a81b)  
 *Uncovering hidden customer groups with RFM and Lifetime Value to drive smarter marketing and revenue growth.*
 
+---
+
 # 📊 Executive Summary
 
 Many online stores struggle to answer three big questions:  
