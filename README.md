@@ -1,6 +1,6 @@
 # 📈 E-Commerce Customer Segmentation & CLV Analysis
 
-![Customer Segmentation](https://images.kdnuggets.com/wp-content/uploads/2021/01/customer-segmentation-illustration-600x400.png)  
+![Customer Segmentation](https://github.com/user-attachments/assets/7b257d34-675f-44f1-8fb3-309ec183a9ea)  
 *Unlocking key customer groups—VIPs, loyal buyers, mass-market, and at-risk segments—with RFM & CLV analysis.*
 
 
