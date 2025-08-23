@@ -1,7 +1,8 @@
 # 📈 E-Commerce Customer Segmentation & CLV Analysis
 
-![Customer Segmentation](https://images.unsplash.com/photo-1607083205626-8e9e14f3a81b)  
-*Uncovering hidden customer groups with RFM and Lifetime Value to drive smarter marketing and revenue growth.*
+![Customer Segmentation](https://images.kdnuggets.com/wp-content/uploads/2021/01/customer-segmentation-illustration-600x400.png)  
+*Unlocking key customer groups—VIPs, loyal buyers, mass-market, and at-risk segments—with RFM & CLV analysis.*
+
 
 ---
 
