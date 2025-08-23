@@ -12,7 +12,7 @@ Many online stores struggle to answer three big questions:
 **Who are my best customers? Who might leave soon? And where should I focus my money?**  
 Without clear answers, businesses often waste time and budget on the wrong people.
 
-To solve this, I analyzed customer transaction data using **RFM (Recency, Frequency, Monetary)** and **Customer Lifetime Value (CLV)**. I then applied **clustering methods (K-Means and Hierarchical Clustering)** to group customers with similar shopping behavior. This moved the business away from guesswork and towards data-driven segmentation.
+To solve this problem for an ecommerce store, I analyzed customer transaction data using **RFM (Recency, Frequency, Monetary)** and **Customer Lifetime Value (CLV)**. I then applied **clustering methods (K-Means and Hierarchical Clustering)** to group customers with similar shopping behavior. This moved the business away from guesswork and towards data-driven segmentation.
 
 The results gave the business a **clear customer map with 4 distinct groups**:  
 - A **tiny VIP segment** (≈5–7 customers) who buy very often (64–118 orders) and spend the most, with an average lifetime value of **$58k–$73k**.  
@@ -25,4 +25,41 @@ The results gave the business a **clear customer map with 4 distinct groups**:
 - **Grow profits** by nurturing the high-value loyal group and encouraging the mass segment to buy more often.  
 - **Reduce losses** by targeting the at-risk group with win-back campaigns instead of spending blindly.  
 
-In short, this project helps e-commerce businesses **spend smarter, keep their best customers, and grow revenue with focus.**
+---
+
+# 🎯 Project Objectives
+
+The objective of this project is to help an e-commerce business **understand its customers better and make smarter marketing decisions using data**.  
+
+To achieve this, the project focuses on three main goals:
+
+1. **Segment Customers Effectively**  
+   - Apply **RFM (Recency, Frequency, Monetary)** and **Customer Lifetime Value (CLV)** to capture shopping behavior.  
+   - Use **unsupervised learning (K-Means & Hierarchical Clustering)** to create meaningful customer groups.  
+
+2. **Validate and Interpret Clusters**  
+   - Ensure clusters are reliable using the **Elbow Method** and **Silhouette Score**.  
+   - Profile each cluster to uncover patterns in recency, frequency, spending, and CLV.  
+
+3. **Enable Actionable Business Strategies**  
+   - Identify **VIP customers** who drive the majority of revenue.  
+   - Detect **at-risk customers** for re-engagement campaigns.  
+   - Highlight **growth opportunities** in mid-value and loyal customer groups.  
+
+📌 By achieving these objectives, the project provides e-commerce teams with **clear customer insights** to:  
+- Spend marketing budgets more wisely  
+- Keep their most valuable customers happy  
+- Re-engage those at risk of leaving  
+- Grow overall revenue in a data-driven way  
+
+---
+
+# 📂 Data Collection
+
+The dataset for this project was sourced from **Kaggle** and contains detailed e-commerce transactions.  
+It includes key fields such as customer IDs, product details, transaction dates, purchase quantities, and monetary values.  
+
+This dataset is well-suited for customer segmentation because it provides enough information to calculate **RFM metrics (Recency, Frequency, Monetary)** and estimate **Customer Lifetime Value (CLV)**. These features make it possible to group customers based on their purchasing behavior and uncover meaningful insights for business strategy.
+
+---
+
