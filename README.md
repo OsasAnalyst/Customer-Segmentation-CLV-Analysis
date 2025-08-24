@@ -63,3 +63,25 @@ This dataset is well-suited for customer segmentation because it provides enough
 
 ---
 
+# 🔍 Exploratory Data Analysis (EDA)
+
+EDA was performed on the training dataset to understand its structure, quality, and customer purchasing behavior. The dataset contained over **228k transactions**, with no missing values in key fields (CustomerID, InvoiceDate, Quantity, UnitPrice).  
+
+### Key Findings
+- **Data Quality**: No missing values, but extreme outliers were observed in `Quantity` (ranging from -80k to +80k) and `UnitPrice` (up to 38k).  
+- **Country Analysis**: The majority of transactions came from the **United Kingdom**, followed by a few other European countries.  
+- **Sales Trends**: Monthly sales showed clear seasonal patterns with noticeable spikes around peak shopping periods.  
+- **Top Products**: A small number of products contributed a large share of sales, reflecting the 80/20 Pareto principle common in retail.  
+
+### Visualizations
+- 📊 **Top 10 Countries by Transactions**  
+    ![Top Countries](https://github.com/user-attachments/assets/ee71912e-3a13-4e5b-914f-3ab1b2cd015d)
+
+
+- 📈 **Monthly Sales Trend**  
+  ![Monthly Sales](https://github.com/user-attachments/assets/e5680e97-8d8d-4320-8fc7-756362e65ea5)
+
+
+- 🛍️ **Top 10 Products by Sales Value**  
+  ![Top Product](https://github.com/user-attachments/assets/0299a35e-ec16-458f-9caa-8ec5ddbdacae)
+
