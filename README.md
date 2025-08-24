@@ -132,17 +132,6 @@ Since the goal of this project is **customer segmentation** using RFM and CLV fe
 - **DBSCAN**: Good for detecting anomalies and irregular clusters, but struggled here due to noise.  
 - **Gaussian Mixture Models (GMM)**: Provided flexibility with soft assignments (probabilistic memberships).  
 
----
-
-# 🤖 Modeling & Model Selection  
-
-Since the goal of this project is **customer segmentation** using RFM and CLV features, the task is inherently **unsupervised learning**. I experimented with several clustering approaches, each offering different strengths:  
-
-- **K-Means**: Fast, scalable, and highly interpretable — a strong baseline for business applications.  
-- **Hierarchical Clustering**: Useful for visualizing relationships between clusters, though less scalable.  
-- **DBSCAN**: Good for detecting anomalies and irregular clusters, but struggled here due to noise.  
-- **Gaussian Mixture Models (GMM)**: Provided flexibility with soft assignments (probabilistic memberships).  
-
 ### Model Evaluation  
 Cluster quality was assessed using the **Silhouette Score**, balancing cohesion within clusters and separation between them.  
 
