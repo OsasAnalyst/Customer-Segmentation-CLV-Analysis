@@ -203,11 +203,12 @@ Future improvements like adding more data sources, using advanced models, and ru
 
 ## 🏁 Closing Remark  
 
-This project shows how customer segmentation and CLV analysis can uncover hidden growth opportunities and guide smarter business strategies.  
-
 I am passionate about using data to solve real business problems and drive measurable value.  
 
 I am open to exploring full-time opportunities where I can contribute to business strategy through analytics, as well as freelance collaborations with organizations seeking to leverage data for smarter decision-making.
 
-🔗 LinkedIn: [Osaretin Idiagbonmwen](www.linkedin.com/in/osaretin-idiagbonmwen-33ab85339)  
+---
+
+📌 Author: [Osaretin Idiagbonmwen](https://www.linkedin.com/in/osaretin-idiagbonmwen-33ab85339)  
 📩 Email: oidiagbonmwen@gmail.com  
+  
