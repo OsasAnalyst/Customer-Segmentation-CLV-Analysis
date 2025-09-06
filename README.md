@@ -6,7 +6,7 @@
 
 ---
 
-# 📊 Executive Summary
+# Executive Summary
 
 Many online stores struggle to answer three big questions:  
 **Who are my best customers? Who might leave soon? And where should I focus my money?**  
@@ -27,7 +27,7 @@ The results gave the business a **clear customer map with 4 distinct groups**:
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The objective of this project is to help an e-commerce business **understand its customers better and make smarter marketing decisions using data**.  
 
@@ -54,7 +54,7 @@ To achieve this, the project focuses on three main goals:
 
 ---
 
-# 📂 Data Collection
+# Data Collection
 
 The dataset for this project was sourced from **Kaggle** and contains detailed e-commerce transactions.  
 It includes key fields such as customer IDs, product details, transaction dates, purchase quantities, and monetary values.  
@@ -63,7 +63,7 @@ This dataset is well-suited for customer segmentation because it provides enough
 
 ---
 
-# 🔍 Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 EDA was performed on the training dataset to understand its structure, quality, and customer purchasing behavior. The dataset contained over **228k transactions**, with no missing values in key fields (CustomerID, InvoiceDate, Quantity, UnitPrice).  
 
@@ -87,7 +87,7 @@ EDA was performed on the training dataset to understand its structure, quality, 
 
 ---
 
-# ⚙️ Feature Engineering & Preprocessing  
+# Feature Engineering & Preprocessing  
 
 The data preparation process ensured that the dataset was clean, structured, and ready for modeling. It involved three key stages:  
 
@@ -123,7 +123,7 @@ This structured pipeline was applied consistently across **train, validation, an
 ---
 
 
-# 🤖 Modeling & Model Selection  
+# Modeling & Model Selection  
 
 Since the goal of this project is **customer segmentation** using RFM and CLV features, the task is inherently **unsupervised learning**. I experimented with several clustering approaches, each offering different strengths:  
 
@@ -150,7 +150,7 @@ While the **Elbow Method** suggested diminishing returns beyond 5–6 clusters, 
 
 ---
 
-## 📌 Recommendations  
+## Recommendations  
 
 Based on the customer segmentation and profiling:  
 
@@ -164,7 +164,7 @@ Based on the customer segmentation and profiling:
 
 ---
 
-## ⚠️ Limitations  
+## Limitations  
 
 - **Data Scope:** The analysis is based only on past transactions within the dataset. Customer behavior outside this period (or across other channels) is not captured.  
 
@@ -176,7 +176,7 @@ Based on the customer segmentation and profiling:
 
 ---
 
-## 🚀 Future Work  
+## Future Work  
 
 - **Add More Features:** Include marketing response data, demographics, or browsing behavior to improve segmentation.  
 
@@ -190,7 +190,7 @@ Based on the customer segmentation and profiling:
 
 ---
 
-## 🏁 Conclusion  
+## Conclusion  
 
 This project showed how customer segmentation combined with CLV analysis can give clear, actionable insights. By identifying VIPs, high-value customers, mid-value buyers, and at-risk groups, businesses can focus on what truly drives growth.  
 
@@ -201,7 +201,7 @@ Future improvements like adding more data sources, using advanced models, and ru
 
 ---
 
-## 🏁 Closing Remark  
+## Closing Remark  
 
 I am passionate about using data to solve real business problems and drive measurable value.  
 
