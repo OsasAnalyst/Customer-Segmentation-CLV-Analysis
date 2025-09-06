@@ -20,7 +20,7 @@ The results gave the business a **clear customer map with 4 distinct groups**:
 - A **profitable loyal segment** (≈39–56 customers) who purchase regularly (18–23 orders) and bring **$5k–$6k CLV**.  
 - An **at-risk group** (≈170–207 customers) who rarely return (≈1 order) and have very low CLV (**$280–$298**).  
 
-🎉 With these insights, the store can now:  
+With these insights, the store can now:  
 - **Protect its revenue** by giving VIPs special care (they are <1% of customers but drive most sales).  
 - **Grow profits** by nurturing the high-value loyal group and encouraging the mass segment to buy more often.  
 - **Reduce losses** by targeting the at-risk group with win-back campaigns instead of spending blindly.  
